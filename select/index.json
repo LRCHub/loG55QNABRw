@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "新宝島 (Instrumental)",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-03-29T12:50:40.710676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "新宝島",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_新宝島_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "新宝島",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_新宝島_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "新宝島 (Instrumental)",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/03_新宝島_(Instrumental)_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "新宝島",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/04_新宝島_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "新宝島",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/05_新宝島_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "新宝島",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/06_新宝島_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "新宝島",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/07_新宝島_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "新宝島",
+      "artist": "BENI",
+      "has_synced": true,
+      "path": "select/08_新宝島_BENI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "新宝島 (Instrumental)",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/09_新宝島_(Instrumental)_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "新宝島 - Shin Takara Jima",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/10_新宝島_-_Shin_Takara_Jima_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shin Takarajima [新宝島]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/11_Shin_Takarajima_[新宝島]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "サカナクション / 新宝島　-Music Video-",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/12_サカナクション___新宝島_-Music_Video-_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新宝島",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_新宝島_サカナクション.txt"
+    }
+  ]
+}
